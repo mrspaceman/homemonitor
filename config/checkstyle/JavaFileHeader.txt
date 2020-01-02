@@ -1,0 +1,11 @@
+^/\*\*$
+^ * Copyright© Andy Aspell-Clark - All rights reserved$
+^ \*/$
+
+^package
+
+^import
+
+ ^/\*\*
+^ \*([^/]|$)
+^ \*/
